@@ -7,7 +7,7 @@ Esta aplicação expõe endpoint RESTful para consulta de vencedores e indicados
 - SDK do Visual Studio (preferencialmente com suporte a ASP.NET Core).
 
 ## Configuração do Projeto
-1. Clone o repositório.
+1. Clone o repositório "https://github.com/GuilhermeLS/GoldenRaspberry.git"
 2. Copie o arquivo "movielist.csv" para um diretório local com permissão de leitura.   
 3. Configure o caminho do arquivo "movielist.csv" na variável PATH dos arquivos de configuração do projeto (appSettings.json e appsettings.Development.json)   
 EXEMPLO
